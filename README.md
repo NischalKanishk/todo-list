@@ -1,0 +1,1 @@
+This is a Web application basically designed to help you to manage tasks. You can easily add any tasks you want also remove them when you want. Suppose you have finished the task just strike through it so that you get to know you have completed it.
